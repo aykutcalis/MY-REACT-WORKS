@@ -1,0 +1,29 @@
+{
+    "courses":[
+        {"id":1,
+        "content":"muhteşem Angular kursu afdjjkhfsdjj fdjskhfjadshjafjsgfajgaj jkhgfahjgajga jhgajsgja jhsajgajhj shjgagkajkfa jkhgsajhgf",
+        "title":"Angular",
+        "price":69
+        },
+        {"id":2,
+        "content":"muhteşem bootstrap kursu afdjjkhfsdjj fdjskhfjadshjafjsgfajgaj jkhgfahjgajga jhgajsgja jhsajgajhj shjgagkajkfa jkhgsajhgf",
+        "title":"bootstrap",
+        "price":68
+        },
+        {"id":3,
+        "content":"muhteşem c programlama kursu afdjjkhfsdjj fdjskhfjadshjafjsgfajgaj jkhgfahjgajga jhgajsgja jhsajgajhj shjgagkajkfa jkhgsajhgf",
+        "title":"c programlama",
+        "price":67
+        },
+        {"id":4,
+        "content":"muhteşem frontend kursu afdjjkhfsdjj fdjskhfjadshjafjsgfajgaj jkhgfahjgajga jhgajsgja jhsajgajhj shjgagkajkfa jkhgsajhgf",
+        "title":"frontend",
+        "price":66
+        },
+        {"id":5,
+        "content":"muhteşem html kursu afdjjkhfsdjj fdjskhfjadshjafjsgfajgaj jkhgfahjgajga jhgajsgja jhsajgajhj shjgagkajkfa jkhgsajhgf",
+        "title":"html",
+        "price":0
+        }
+    ]
+}
